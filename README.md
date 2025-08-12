@@ -2,7 +2,7 @@
 
 A comprehensive project for the classification of 8 tissue types in colorectal cancer histology images. This project details a systematic journey from baseline model evaluation to the development of an advanced, hierarchical system featuring an attention mechanism and targeted data augmentation to solve fine-grained classification challenges.
 
-**Final Macro F1-Score Achieved: [הכנס כאן את הציון הסופי שלך, למשל 0.952]**
+**Final Macro F1-Score Achieved: 0.964**
 
 ---
 
@@ -42,4 +42,5 @@ The project followed a systematic, multi-stage approach within the notebook:
 * **Scikit-learn**
 * **Optuna** (for Hyperparameter Optimization)
 * **Albumentations** (for Advanced Data Augmentation)
+
 * **Weights & Biases** (for Experiment Tracking)
